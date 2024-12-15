@@ -69,7 +69,7 @@
  (run-at-time . 1)
  (butterfly . 1)
  (eaf-open-markmap . 2)
- (eaf-open-git . 20)
+ (eaf-open-git . 21)
  (eaf-git-get-permalink . 1)
  (customize . 1)
  (load-theme . 5)

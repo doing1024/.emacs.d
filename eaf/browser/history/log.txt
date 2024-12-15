@@ -157,6 +157,7 @@ emacs-lsp/lsp-ui: UI integrations for lsp-modeᛝhttps://github.com/emacs-lsp/ls
 EasyOCR安装 - monkey6 - 博客园ᛝhttps://www.cnblogs.com/monkey6/p/16617942.htmlᛡ1.75
 eaf 打开eaf-open-browser显示buffer不存在，然后卡住 - Emacs-general - Emacs Chinaᛝhttps://emacs-china.org/t/eaf-eaf-open-browser-buffer/22706ᛡ1.75
 linux命令必备翻译软件 • Worktile社区ᛝhttps://worktile.com/kb/ask/360929.htmlᛡ1.75
+详解gitignore的使用方法，让你尽情使用git add . - Coder梁 - 博客园ᛝhttps://www.cnblogs.com/techflow/p/13801136.htmlᛡ1.75
 Sign in to GitHub · GitHubᛝhttps://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Femacs-eaf%2Feaf-org-previewerᛡ1.5
 Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AcMMx-ceZwK9CkQBEx6MkVsQBe0T-aCUqRWAKr-1E-qKVoDhggULRpu4rWbRJpZg2AGPYj9Gjl4OhA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1039995532%3A1733660393352107&ddm=1ᛡ1.5
 Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AcMMx-dmBi4EiCfwdLE1lnDVE6vQfMDws1FFviraZygJdzHX1xe3gGQ5LS0GqyzhHflDCI3N09EH&dsh=S788976864%3A1733660409176392ᛡ1.5
