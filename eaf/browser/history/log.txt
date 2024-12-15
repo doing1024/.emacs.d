@@ -2,14 +2,15 @@ P3834 【模板】可持久化线段树 2 - 洛谷 | 计算机科学教育新生
 ManateeLazyCatᛝhttps://manateelazycat.github.io/ᛡ25.75
 Googleᛝhttps://www.google.com/ᛡ25.75
 USACOᛝhttps://usaco.org/index.phpᛡ18.25
+emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ12.25
 MELPA Stableᛝhttps://stable.melpa.org/ᛡ11.5
-emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ10.75
 MELPAᛝhttps://melpa.org/ᛡ10.5
 解决Python包安装报错 “error: externally-managed-environment“-CSDN博客ᛝhttps://blog.csdn.net/qq_42698421/article/details/136843001ᛡ9.25
 emacs-eaf/eaf-org-previewer: Real-time Org-mode previewerᛝhttps://github.com/emacs-eaf/eaf-org-previewerᛡ6.25
 首页 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/ᛡ6.25
 USACOᛝhttps://usaco.org/index.php?page=viewproblem&cpid=1431ᛡ5.5
 我平常是怎么使用 Emacs 的？ᛝhttps://manateelazycat.github.io/2022/11/07/how-i-use-emacs/ᛡ5.5
+Home · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wikiᛡ5.5
 Emacs Application Frameworkᛝhttps://github.com/emacs-eafᛡ4.75
 JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teamsᛝhttps://www.jetbrains.com/lp/mono/ᛡ4.75
 emacs-china.orgᛝhttps://emacs-china.org/t/org-pomodoro-mac-menubar/16816ᛡ4.75
@@ -31,6 +32,7 @@ EAF支持书签啦！ᛝhttps://manateelazycat.github.io/2019/12/11/eaf-support-
 Emacs 递归添加目录下所有插件ᛝhttps://manateelazycat.github.io/2022/03/02/emacs-load-directory-recursively/ᛡ3.25
 nschum/window-numbering.el: Emacs: Numbered window shortcutsᛝhttps://github.com/nschum/window-numbering.elᛡ3.25
 abo-abo/swiper: Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!ᛝhttps://github.com/abo-abo/swiperᛡ3.25
+进程崩溃 · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/进程崩溃ᛡ3.25
 Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F%3Fptid%3D19027681%26ptt%3D8%26fpts%3D0&ec=futura_hpp_co_si_001_p&ifkv=AcMMx-dHyeV_t7-k2ZQ0l3oLH96ojNPRBG1A2Cp3bWYKl_XV7Ntl1WXFxW2kq7YXFSdjMEMbWQbaTw&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1542805810%3A1733658631953770&ddm=1ᛡ3.0
 MELPAᛝhttps://melpa.org/#/ᛡ3.0
 使用支持的浏览器登录 - 计算机 - Google 帐号帮助ᛝhttps://support.google.com/accounts/answer/7675428?hl=zh-Hansᛡ2.5
@@ -49,7 +51,6 @@ ubuntu python11 pip install 提示：error: externally-managed-environment - Tar
 网页沉浸式双语翻译的原理ᛝhttps://manateelazycat.github.io/2023/05/06/the-principle-of-immersive-translation/ᛡ1.75
 emacs-application-framework/README.zh-CN.md at master · emacs-eaf/emacs-application-frameworkᛝhttps://github.com/emacs-eaf/emacs-application-framework/blob/master/README.zh-CN.mdᛡ1.75
 Create new page · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/Hackingᛡ1.75
-Home · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wikiᛡ1.75
 浏览器无法登录Google · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/浏览器无法登录Googleᛡ1.75
 Dell G16 在 Linux 下设置键盘灯 （逆向）ᛝhttps://manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/ᛡ1.75
 ChatGPTᛝhttps://manateelazycat.github.io/2023/02/14/chatgpt/ᛡ1.75

@@ -181,3 +181,5 @@ https://www.cnblogs.com/monkey6/p/16617942.html
 https://manateelazycat.github.io/2022/05/21/emacs-plugin/
 https://worktile.com/kb/ask/360929.html
 https://github.com/emacs-eaf/emacs-application-framework/wiki
+https://github.com/manateelazycat/sort-tab
+https://github.com/emacs-eaf/emacs-application-framework/wiki/进程崩溃
