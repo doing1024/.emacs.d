@@ -1,0 +1,10 @@
+.cache/
+auto-save-list/
+eaf/
+eln-cache/
+elpa/
+amx-items
+bookmarks
+projectile-bookmarks.el
+recentf
+session*
