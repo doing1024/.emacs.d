@@ -3,9 +3,9 @@ ManateeLazyCatᛝhttps://manateelazycat.github.io/ᛡ25.75
 Googleᛝhttps://www.google.com/ᛡ25.75
 USACOᛝhttps://usaco.org/index.phpᛡ18.25
 MELPA Stableᛝhttps://stable.melpa.org/ᛡ11.5
+emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ10.75
 MELPAᛝhttps://melpa.org/ᛡ10.5
 解决Python包安装报错 “error: externally-managed-environment“-CSDN博客ᛝhttps://blog.csdn.net/qq_42698421/article/details/136843001ᛡ9.25
-emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ9.25
 emacs-eaf/eaf-org-previewer: Real-time Org-mode previewerᛝhttps://github.com/emacs-eaf/eaf-org-previewerᛡ6.25
 首页 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/ᛡ6.25
 USACOᛝhttps://usaco.org/index.php?page=viewproblem&cpid=1431ᛡ5.5
@@ -13,6 +13,7 @@ USACOᛝhttps://usaco.org/index.php?page=viewproblem&cpid=1431ᛡ5.5
 Emacs Application Frameworkᛝhttps://github.com/emacs-eafᛡ4.75
 JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teamsᛝhttps://www.jetbrains.com/lp/mono/ᛡ4.75
 emacs-china.orgᛝhttps://emacs-china.org/t/org-pomodoro-mac-menubar/16816ᛡ4.75
+我平常是怎么折腾Emacs插件的?ᛝhttps://manateelazycat.github.io/2022/05/21/emacs-plugin/ᛡ4.75
 USACOᛝhttps://usaco.org/index.php?page=viewcontestᛡ3.5
 Emacs, 我已经十年没有按过保存按键了（附带 auto-save.el 源码解析）ᛝhttps://manateelazycat.github.io/2016/03/16/auto-save/ᛡ3.25
 Emacs GC 的一些研究ᛝhttps://manateelazycat.github.io/2023/04/17/emacs-gc-research/ᛡ3.25
@@ -27,7 +28,6 @@ manateelazycat/awesome-tray: Hide mode-line, display necessary information at ri
 济南新航实验外国语学校 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/team/28551ᛡ3.25
 可持久化线段树/主席树 - 题单 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/training/416943ᛡ3.25
 EAF支持书签啦！ᛝhttps://manateelazycat.github.io/2019/12/11/eaf-support-bookmark/ᛡ3.25
-我平常是怎么折腾Emacs插件的?ᛝhttps://manateelazycat.github.io/2022/05/21/emacs-plugin/ᛡ3.25
 Emacs 递归添加目录下所有插件ᛝhttps://manateelazycat.github.io/2022/03/02/emacs-load-directory-recursively/ᛡ3.25
 nschum/window-numbering.el: Emacs: Numbered window shortcutsᛝhttps://github.com/nschum/window-numbering.elᛡ3.25
 abo-abo/swiper: Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!ᛝhttps://github.com/abo-abo/swiperᛡ3.25
@@ -155,6 +155,7 @@ company-mode/company-mode: Modular in-buffer completion framework for Emacsᛝht
 emacs-lsp/lsp-ui: UI integrations for lsp-modeᛝhttps://github.com/emacs-lsp/lsp-uiᛡ1.75
 EasyOCR安装 - monkey6 - 博客园ᛝhttps://www.cnblogs.com/monkey6/p/16617942.htmlᛡ1.75
 eaf 打开eaf-open-browser显示buffer不存在，然后卡住 - Emacs-general - Emacs Chinaᛝhttps://emacs-china.org/t/eaf-eaf-open-browser-buffer/22706ᛡ1.75
+linux命令必备翻译软件 • Worktile社区ᛝhttps://worktile.com/kb/ask/360929.htmlᛡ1.75
 Sign in to GitHub · GitHubᛝhttps://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Femacs-eaf%2Feaf-org-previewerᛡ1.5
 Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AcMMx-ceZwK9CkQBEx6MkVsQBe0T-aCUqRWAKr-1E-qKVoDhggULRpu4rWbRJpZg2AGPYj9Gjl4OhA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1039995532%3A1733660393352107&ddm=1ᛡ1.5
 Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AcMMx-dmBi4EiCfwdLE1lnDVE6vQfMDws1FFviraZygJdzHX1xe3gGQ5LS0GqyzhHflDCI3N09EH&dsh=S788976864%3A1733660409176392ᛡ1.5

@@ -2,12 +2,12 @@
 ;; ----- amx-history -----
 (
  eaf-open-git
+ package-delete
+ package-autoremove
  package-install
  treemacs-add-project
  treemacs
  eaf-open
- emacs-lisp-mode
- go-ts-mode
 )
 
 ;; ----- amx-data -----
@@ -16,7 +16,7 @@
  (term . 2)
  (package-install . 53)
  (pascal-mode . 1)
- (package-delete . 11)
+ (package-delete . 14)
  (window-numbering-mode . 1)
  (list-packages . 4)
  (dashboard-mode . 3)
@@ -34,7 +34,7 @@
  (org-modern-mode . 2)
  (desktop-save . 2)
  (auto-save-mode . 1)
- (package-autoremove . 2)
+ (package-autoremove . 3)
  (olivetti-mode . 5)
  (pangu-spacing-mode . 5)
  (olivetti-expand . 7)
@@ -69,7 +69,7 @@
  (run-at-time . 1)
  (butterfly . 1)
  (eaf-open-markmap . 2)
- (eaf-open-git . 15)
+ (eaf-open-git . 20)
  (eaf-git-get-permalink . 1)
  (customize . 1)
  (load-theme . 5)
