@@ -1,0 +1,189 @@
+P3834 【模板】可持久化线段树 2 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/problem/P3834ᛡ55.0
+ManateeLazyCatᛝhttps://manateelazycat.github.io/ᛡ25.75
+Googleᛝhttps://www.google.com/ᛡ25.75
+USACOᛝhttps://usaco.org/index.phpᛡ18.25
+MELPA Stableᛝhttps://stable.melpa.org/ᛡ11.5
+MELPAᛝhttps://melpa.org/ᛡ10.5
+解决Python包安装报错 “error: externally-managed-environment“-CSDN博客ᛝhttps://blog.csdn.net/qq_42698421/article/details/136843001ᛡ9.25
+emacs-eaf/emacs-application-framework: EAF, an extensible framework that revolutionizes the graphical capabilities of Emacsᛝhttps://github.com/emacs-eaf/emacs-application-frameworkᛡ9.25
+emacs-eaf/eaf-org-previewer: Real-time Org-mode previewerᛝhttps://github.com/emacs-eaf/eaf-org-previewerᛡ6.25
+首页 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/ᛡ6.25
+USACOᛝhttps://usaco.org/index.php?page=viewproblem&cpid=1431ᛡ5.5
+我平常是怎么使用 Emacs 的？ᛝhttps://manateelazycat.github.io/2022/11/07/how-i-use-emacs/ᛡ5.5
+Emacs Application Frameworkᛝhttps://github.com/emacs-eafᛡ4.75
+JetBrains Mono: A free and open source typeface for developers | JetBrains: Developer Tools for Professionals and Teamsᛝhttps://www.jetbrains.com/lp/mono/ᛡ4.75
+emacs-china.orgᛝhttps://emacs-china.org/t/org-pomodoro-mac-menubar/16816ᛡ4.75
+USACOᛝhttps://usaco.org/index.php?page=viewcontestᛡ3.5
+Emacs, 我已经十年没有按过保存按键了（附带 auto-save.el 源码解析）ᛝhttps://manateelazycat.github.io/2016/03/16/auto-save/ᛡ3.25
+Emacs GC 的一些研究ᛝhttps://manateelazycat.github.io/2023/04/17/emacs-gc-research/ᛡ3.25
+安装 PaddleOCRᛝhttps://manateelazycat.github.io/2022/12/19/install-paddocr/ᛡ3.25
+Issues · emacs-eaf/eaf-git · GitHubᛝhttps://github.com/emacs-eaf/eaf-git/issuesᛡ3.25
+Todolist · emacs-eaf/eaf-git Wikiᛝhttps://github.com/emacs-eaf/eaf-git/wiki/Todolistᛡ3.25
+my emacs dotfilesᛝhttps://gist.github.com/doing1024/1b196d6f879c8790d3dbcfa3f450aed2ᛡ3.25
+doingᛝhttps://doing1024.us.kg/ᛡ3.25
+awesome-tray 替代Emacs mode-line, 让编程更加专注ᛝhttps://manateelazycat.github.io/2018/10/07/awesome-tray/ᛡ3.25
+manateelazycat/awesome-tray: Hide mode-line, display necessary information at right of minibuffer.ᛝhttps://github.com/manateelazycat/awesome-trayᛡ3.25
+登录 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/auth/loginᛡ3.25
+济南新航实验外国语学校 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/team/28551ᛡ3.25
+可持久化线段树/主席树 - 题单 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/training/416943ᛡ3.25
+EAF支持书签啦！ᛝhttps://manateelazycat.github.io/2019/12/11/eaf-support-bookmark/ᛡ3.25
+我平常是怎么折腾Emacs插件的?ᛝhttps://manateelazycat.github.io/2022/05/21/emacs-plugin/ᛡ3.25
+Emacs 递归添加目录下所有插件ᛝhttps://manateelazycat.github.io/2022/03/02/emacs-load-directory-recursively/ᛡ3.25
+nschum/window-numbering.el: Emacs: Numbered window shortcutsᛝhttps://github.com/nschum/window-numbering.elᛡ3.25
+abo-abo/swiper: Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!ᛝhttps://github.com/abo-abo/swiperᛡ3.25
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F%3Fptid%3D19027681%26ptt%3D8%26fpts%3D0&ec=futura_hpp_co_si_001_p&ifkv=AcMMx-dHyeV_t7-k2ZQ0l3oLH96ojNPRBG1A2Cp3bWYKl_XV7Ntl1WXFxW2kq7YXFSdjMEMbWQbaTw&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1542805810%3A1733658631953770&ddm=1ᛡ3.0
+MELPAᛝhttps://melpa.org/#/ᛡ3.0
+使用支持的浏览器登录 - 计算机 - Google 帐号帮助ᛝhttps://support.google.com/accounts/answer/7675428?hl=zh-Hansᛡ2.5
+(23 封私信 / 24 条消息) 有哪些值得推荐的英文字体？ - 知乎ᛝhttps://www.zhihu.com/question/23210530ᛡ2.5
+深度的5年ᛝhttps://manateelazycat.github.io/2016/03/08/deepin-5-years/ᛡ2.5
+manateelazycat/auto-save: Automatically save files without temporary files to protect your finger. ;)ᛝhttps://github.com/manateelazycat/auto-saveᛡ2.5
+doing1024 的个人中心 - 洛谷 | 计算机科学教育新生态ᛝhttps://www.luogu.com.cn/user/739049#mine.teamᛡ2.5
+Google 搜索 – Google 搜索是什么以及它如何运作ᛝhttps://www-google-com.translate.goog/search/howsearchworks/?fg=1&_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=enᛡ2.0
+百度一下，你就知道ᛝhttps://www.baidu.com/ᛡ1.75
+ubuntu文件夹建立软链接方法 - 九月光 - 博客园ᛝhttps://www.cnblogs.com/jiuyueguang/p/3174296.htmlᛡ1.75
+Linux 符号链接ᛝhttps://www.freecodecamp.org/chinese/news/linux-symbolic-link/ᛡ1.75
+emacs-eaf repositories · GitHubᛝhttps://github.com/orgs/emacs-eaf/repositoriesᛡ1.75
+Issues · emacs-eaf/emacs-application-frameworkᛝhttps://github.com/emacs-eaf/emacs-application-framework/issuesᛡ1.75
+ubuntu python11 pip install 提示：error: externally-managed-environment - Tarzen - 博客园ᛝhttps://www.cnblogs.com/tarzen213/p/17932007.htmlᛡ1.75
+年轻人的技术选型ᛝhttps://manateelazycat.github.io/2024/11/16/find-right-tech/ᛡ1.75
+网页沉浸式双语翻译的原理ᛝhttps://manateelazycat.github.io/2023/05/06/the-principle-of-immersive-translation/ᛡ1.75
+emacs-application-framework/README.zh-CN.md at master · emacs-eaf/emacs-application-frameworkᛝhttps://github.com/emacs-eaf/emacs-application-framework/blob/master/README.zh-CN.mdᛡ1.75
+Create new page · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/Hackingᛡ1.75
+Home · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wikiᛡ1.75
+浏览器无法登录Google · emacs-eaf/emacs-application-framework Wikiᛝhttps://github.com/emacs-eaf/emacs-application-framework/wiki/浏览器无法登录Googleᛡ1.75
+Dell G16 在 Linux 下设置键盘灯 （逆向）ᛝhttps://manateelazycat.github.io/2023/10/25/dell-g16-keyboard-light/ᛡ1.75
+ChatGPTᛝhttps://manateelazycat.github.io/2023/02/14/chatgpt/ᛡ1.75
+读《英语魔法师之语法俱乐部》ᛝhttps://manateelazycat.github.io/2022/11/15/reading-english-magicia/ᛡ1.75
+登录 - 简书ᛝhttps://www.jianshu.com/sign_inᛡ1.75
+获取网页中光标处的单词ᛝhttps://manateelazycat.github.io/2023/04/08/get-mouse-cursor/ᛡ1.75
+effortless-indent 快速缩进粘贴的代码ᛝhttps://manateelazycat.github.io/2023/05/03/effortless-indent/ᛡ1.75
+Emacs 里用雾凇拼音实现流畅中文输入ᛝhttps://manateelazycat.github.io/2023/04/05/emacs-rime-ice/ᛡ1.75
+浅谈 Emacs 的性能优化ᛝhttps://manateelazycat.github.io/2023/02/24/emacs-performance/ᛡ1.75
+全键盘旅游地图ᛝhttps://manateelazycat.github.io/2023/02/24/eaf-map/ᛡ1.75
+基于标记对象的键盘宏展开插件ᛝhttps://manateelazycat.github.io/2022/11/24/markmacro/ᛡ1.75
+Elisp Get free portᛝhttps://manateelazycat.github.io/2022/10/12/elisp-get-free-port/ᛡ1.75
+从毛泽东选集看创业过程ᛝhttps://manateelazycat.github.io/2022/09/19/reading-mao/ᛡ1.75
+从浏览器崩溃窥探Qt事件伪造原理ᛝhttps://manateelazycat.github.io/2022/04/28/eaf-browser-crash/ᛡ1.75
+EAF Git Client 手册ᛝhttps://manateelazycat.github.io/2022/04/22/eaf-git/ᛡ1.75
+Create a new Gistᛝhttps://gist.github.com/ᛡ1.75
+usaco.orgᛝhttps://usaco.org/ᛡ1.75
+Google 翻译ᛝhttps://translate.google.com/ᛡ1.75
+Arch 安装打印机ᛝhttps://manateelazycat.github.io/2021/02/28/arch-printer/ᛡ1.75
+GCC Emacsᛝhttps://manateelazycat.github.io/2020/10/23/use-native-comp-branch/ᛡ1.75
+2024年最好用的12款 Linux Terminal Emulator (终端模拟器)精心挑选了2024年最值得使用的 - 掘金ᛝhttps://juejin.cn/post/7317832600810160191ᛡ1.75
+wez/wezterm: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rustᛝhttps://github.com/wez/weztermᛡ1.75
+Download - Wez's Terminal Emulatorᛝhttps://wezfurlong.org/wezterm/installationᛡ1.75
+Linux - Wez's Terminal Emulatorᛝhttps://wezfurlong.org/wezterm/install/linux.htmlᛡ1.75
+Emacs是什么？ᛝhttps://manateelazycat.github.io/2016/03/06/what-is-emacs/ᛡ1.75
+Emacs 折腾之旅起航ᛝhttps://manateelazycat.github.io/2016/03/06/emacs-start/ᛡ1.75
+Linuxer怎么直面内心的挣扎？ᛝhttps://manateelazycat.github.io/2017/12/11/straight-to-the-heart/ᛡ1.75
+Archlinux+Windows 双系统安装教程（UEFI）2023.7 - NexusXian - 博客园ᛝhttps://www.cnblogs.com/NexusXian/p/17570030.htmlᛡ1.75
+arch安装yay最简单的办法ᛝhttps://dev.leiyanhui.com/c/archlinux-install-yay/ᛡ1.75
+使用 Cloudflare Workers 自建节点科学上网 | 言外之音ᛝhttps://voxsay.com/posts/using-cloudflare-workers-build-proxy-for-internet-access/ᛡ1.75
+Emacs和Vim：神的编辑器和编辑器之神 - coolnet - 博客园ᛝhttps://www.cnblogs.com/batcom/archive/2013/04/25/3042426.htmlᛡ1.75
+GitHub CLI：安装与配置教程-CSDN博客ᛝhttps://blog.csdn.net/PursueLuo/article/details/109544993ᛡ1.75
+github-cli 安装与使用（Windows环境）下载 github cli github cli 下载链接 安装完 - 掘金ᛝhttps://juejin.cn/post/7249288803532488765ᛡ1.75
+在Firefox使用Emacs键位 - doingᛝhttps://doing1024.us.kg/posts/use-emacs-keybinding-in-firefox/ᛡ1.75
+Pomotroid - 简单美观的番茄钟｜该休息啦计时器[Win/macOS/Linux] - 小众软件ᛝhttps://www.appinn.com/pomotroid/ᛡ1.75
+Splode/pomotroid: :tomato: Simple and visually-pleasing Pomodoro timerᛝhttps://github.com/Splode/pomotroidᛡ1.75
+这些年我看到开源社区中的逻辑偏执ᛝhttps://manateelazycat.github.io/2017/01/21/open-source-community-and-paranoia/ᛡ1.75
+我眼中的中国开源社区ᛝhttps://manateelazycat.github.io/2016/06/23/china-open-source-community/ᛡ1.75
+想成为技术牛人，千万不要成为虚名牢笼的奴隶ᛝhttps://manateelazycat.github.io/2017/01/29/fictional-slave/ᛡ1.75
+Emacs Application Frameworkᛝhttps://manateelazycat.github.io/2018/08/06/eaf/ᛡ1.75
+Aweshell, 像IDE一样使用Shellᛝhttps://manateelazycat.github.io/2018/08/10/aweshell/ᛡ1.75
+manateelazycat/aweshell: Awesome shell extension base on eshell with wonderful features!ᛝhttps://github.com/manateelazycat/aweshellᛡ1.75
+oh my zsh安装以及历史命令自动补全插件安装 - voyage1969 - 博客园ᛝhttps://www.cnblogs.com/voyage1969/p/13717296.htmlᛡ1.75
+技术|如何在 Linux 中安装、配置和使用 Fish Shell？ᛝhttps://linux.cn/article-10622-1.htmlᛡ1.75
+写给最近关心我的朋友们ᛝhttps://manateelazycat.github.io/2018/09/13/thanks-my-friend/ᛡ1.75
+Emacs, 在只读模式下单键导航ᛝhttps://manateelazycat.github.io/2018/10/02/vi-navigate/ᛡ1.75
+我为什么不想把自己的Emacs插件放到MELPA上?ᛝhttps://manateelazycat.github.io/2018/10/07/why-not-melpa/ᛡ1.75
+Emacs, css-sort.el 自动排序CSS属性ᛝhttps://manateelazycat.github.io/2018/11/20/css-sort/ᛡ1.75
+用Mac灌制树莓派系统ᛝhttps://manateelazycat.github.io/2018/11/28/build-raspberry-on-mac/ᛡ1.75
+我是怎么用Emacs学习英文的?ᛝhttps://manateelazycat.github.io/2018/12/01/emacs-study-english/ᛡ1.75
+Hello, GitHub Pagesᛝhttps://manateelazycat.github.io/2019/04/19/hello-github-page/ᛡ1.75
+Jekyll 简单介绍ᛝhttps://manateelazycat.github.io/2019/04/24/jekyll/ᛡ1.75
+Jekyll 访问统计ᛝhttps://manateelazycat.github.io/2019/04/29/jekyll-hit-counter/ᛡ1.75
+利用lazy-load.el按需加载Emacs插件ᛝhttps://manateelazycat.github.io/2019/05/05/lazy-load/ᛡ1.75
+Emacs黑客列表ᛝhttps://manateelazycat.github.io/2019/05/12/emacs-hackers/ᛡ1.75
+AwesomeTab支持图标显示了ᛝhttps://manateelazycat.github.io/2019/06/23/awesome-tab-support-icon/ᛡ1.75
+manateelazycat/awesome-tab: Emacs package to provide out-of-the-box configuration to use tabs.ᛝhttps://github.com/manateelazycat/awesome-tabᛡ1.75
+MacBook Pro的键盘被我敲碎了ᛝhttps://manateelazycat.github.io/2019/07/04/fuck-mackbook-keyboard/ᛡ1.75
+怎么徒手修复 MacBook 键盘？ᛝhttps://manateelazycat.github.io/2019/07/09/fix-macbook-keyboard/ᛡ1.75
+Jekyll实时刷新ᛝhttps://manateelazycat.github.io/2019/07/14/jekyll-livereload/ᛡ1.75
+选择Emacs最底部的窗口ᛝhttps://manateelazycat.github.io/2019/09/20/select-bottom-window/ᛡ1.75
+Snails超级快的模糊搜索框架ᛝhttps://manateelazycat.github.io/2019/07/21/snails/ᛡ1.75
+manateelazycat/snails: A modern, easy-to-expand fuzzy search frameworkᛝhttps://github.com/manateelazycat/snailsᛡ1.75
+重新起航ᛝhttps://manateelazycat.github.io/2019/10/31/sailing/ᛡ1.75
+Emacs Application Framework 支持大写字符事件了!ᛝhttps://manateelazycat.github.io/2019/09/21/support-capital-letter/ᛡ1.75
+不要说自己是玩电脑的ᛝhttps://manateelazycat.github.io/2019/11/25/breaking-captcha/ᛡ1.75
+想新写一个 LSP Mode!ᛝhttps://manateelazycat.github.io/2019/12/05/want-write-new-lsp-mode/ᛡ1.75
+用Emacs编辑EAF浏览器输入框的内容ᛝhttps://manateelazycat.github.io/2020/01/30/eaf-browser-edit-focus-text/ᛡ1.75
+Linux Ubuntu 安装 Fish Shell 教程以及配置和使用方法-腾讯云开发者社区-腾讯云ᛝhttps://cloud.tencent.com/developer/article/1709295ᛡ1.75
+fish shellᛝhttps://fishshell.com/ᛡ1.75
+Arch Linux - fish 3.7.1-2 (x86_64)ᛝhttps://archlinux.org/packages/extra/x86_64/fish/ᛡ1.75
+manateelazycat/sort-tab: Smarter tab solution for Emacs, sort tab with using frequency.ᛝhttps://github.com/manateelazycat/sort-tabᛡ1.75
+EAF浏览器完成Vimium所有功能ᛝhttps://manateelazycat.github.io/2020/02/01/eaf-support-vimium-feature/ᛡ1.75
+Emacs Trick -- 颜色重定向ᛝhttps://manateelazycat.github.io/2020/03/28/color-remap/ᛡ1.75
+切换终端到Alacrittyᛝhttps://manateelazycat.github.io/2020/06/18/switch-to-alacritty/ᛡ1.75
+EAF支持Windows啦ᛝhttps://manateelazycat.github.io/2021/01/23/eaf-support-windows/ᛡ1.75
+通过mume.js实现先进的Markdown文档实时预览ᛝhttps://manateelazycat.github.io/2021/01/30/eaf-and-mumejs/ᛡ1.75
+清理不用的软件包ᛝhttps://manateelazycat.github.io/2021/02/25/clean-unused-arch-package/ᛡ1.75
+更简洁的标签栏设计ᛝhttps://manateelazycat.github.io/2021/10/26/sort-tab/ᛡ1.75
+递归搜索插件引用记录ᛝhttps://manateelazycat.github.io/2022/04/28/recursive-search-references/ᛡ1.75
+从 Manjaro 切换到 EndeavourOSᛝhttps://manateelazycat.github.io/2023/09/10/endeavour-os/ᛡ1.75
+少数派 - 高效工作，品质生活ᛝhttps://sspai.com/ᛡ1.75
+Matrix 社区 - 分享有趣的观点，了解更丰富的数字生活体验ᛝhttps://sspai.com/matrixᛡ1.75
+提前引用：时间法师的阅读方法 - 少数派ᛝhttps://sspai.com/post/94720ᛡ1.75
+Welcome to nginx!ᛝhttp://runningchesse.com/ᛡ1.75
+奔跑中的奶酪 - 有智，有趣，有爱ᛝhttps://www.runningcheese.com/ᛡ1.75
+奔跑中的奶酪 - 有智，有趣，有爱 - (第2页)ᛝhttps://www.runningcheese.com/page/2ᛡ1.75
+全网首发，没有比之更快的语音识别方法！ - 奔跑中的奶酪ᛝhttps://www.runningcheese.com/onekey-transcribeᛡ1.75
+CCTV 也能下，看完没人比你更懂直播下载！ - 奔跑中的奶酪ᛝhttps://www.runningcheese.com/live-downloadᛡ1.75
+如何使用磁盘修复命令CHKDSK检查并修复磁盘错误？四种方法！ᛝhttps://www.disktool.cn/content-center/command-prompt-check-disk-6540.htmlᛡ1.75
+alezost/mwim.el: Move to the beginning/end of line, code or commentᛝhttps://github.com/alezost/mwim.elᛡ1.75
+jonathanchu/atom-one-dark-theme: Atom One Dark - An Emacs port of the Atom One Dark theme from Atom.io.ᛝhttps://github.com/jonathanchu/atom-one-dark-themeᛡ1.75
+Alexander-Miller/treemacsᛝhttps://github.com/Alexander-Miller/treemacsᛡ1.75
+emacsmirror/amx: Alternative M-x with extra featuresᛝhttps://github.com/emacsmirror/amxᛡ1.75
+justbur/emacs-which-key: Emacs package that displays available keybindings in popupᛝhttps://github.com/justbur/emacs-which-keyᛡ1.75
+bbatsov/projectile: Project Interaction Library for Emacsᛝhttps://github.com/bbatsov/projectileᛡ1.75
+ericdanan/counsel-projectile: Ivy UI for Projectileᛝhttps://github.com/ericdanan/counsel-projectileᛡ1.75
+emacs-dashboard/emacs-dashboard: An extensible emacs dashboardᛝhttps://github.com/emacs-dashboard/emacs-dashboardᛡ1.75
+Fanael/rainbow-delimiters: Emacs rainbow delimiters modeᛝhttps://github.com/Fanael/rainbow-delimitersᛡ1.75
+flycheck/flycheck: On the fly syntax checking for GNU Emacsᛝhttps://github.com/flycheck/flycheckᛡ1.75
+emacs-lsp/lsp-mode: Emacs client/library for the Language Server Protocolᛝhttps://github.com/emacs-lsp/lsp-modeᛡ1.75
+company-mode/company-mode: Modular in-buffer completion framework for Emacsᛝhttps://github.com/company-mode/company-modeᛡ1.75
+emacs-lsp/lsp-ui: UI integrations for lsp-modeᛝhttps://github.com/emacs-lsp/lsp-uiᛡ1.75
+EasyOCR安装 - monkey6 - 博客园ᛝhttps://www.cnblogs.com/monkey6/p/16617942.htmlᛡ1.75
+eaf 打开eaf-open-browser显示buffer不存在，然后卡住 - Emacs-general - Emacs Chinaᛝhttps://emacs-china.org/t/eaf-eaf-open-browser-buffer/22706ᛡ1.75
+Sign in to GitHub · GitHubᛝhttps://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Femacs-eaf%2Feaf-org-previewerᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AcMMx-ceZwK9CkQBEx6MkVsQBe0T-aCUqRWAKr-1E-qKVoDhggULRpu4rWbRJpZg2AGPYj9Gjl4OhA&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1039995532%3A1733660393352107&ddm=1ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=en&ifkv=AcMMx-dmBi4EiCfwdLE1lnDVE6vQfMDws1FFviraZygJdzHX1xe3gGQ5LS0GqyzhHflDCI3N09EH&dsh=S788976864%3A1733660409176392ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AcMMx-epdoSu1XLoLSTDKq_C9ZjiQ51aXw3cJQbxR96KeI2PeYzq1XKH43MGF6niitxl5GCwZ_VG&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1171276888%3A1733661062253524&ddm=1ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AcMMx-dkYEnDT7k7ZYLdaq9J8b_mOc4WRdrEcBCR3z7YoksfgpPMjS3z13Y_P4YrQM06pEGR5FNVYQ&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1743477844%3A1733661795686000&ddm=1ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AeZLP9-pD2W9jDQcPUTzmNSD8zO_kk0Q6mH9Ai7D7UN_tIl4UEQwiFYkGB2ZumKnSglGc49em335&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1774700466%3A1734089257243194&ddm=1ᛡ1.5
+登录 - Google 账号ᛝhttps://accounts.google.com/v3/signin/rejected?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&dsh=S-1774700466%3A1734089257243194&ec=GAZAmgQ&epd=AW5di2qxwtYOZXxxXk7sYDJUgqgOVcQ1KDaUjEqwnke7eRAaQuTNRXBQNQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=zh-CN&idnf=dongyanchen1024%40gmail.com&ifkv=AeZLP9-pD2W9jDQcPUTzmNSD8zO_kk0Q6mH9Ai7D7UN_tIl4UEQwiFYkGB2ZumKnSglGc49em335&rhlk=le&rrk=46ᛡ1.5
+登录 - Google 账号ᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=zh-CN&ifkv=AeZLP9-VYwy0EORjWG2FUVLpS2-kINnnSynZpzE5Roneo1PTV6O7QrOzlked_LIuoRcF3bnvyCJWpQ&dsh=S504469933%3A1734089600287050ᛡ1.5
+登录 - Google 账号ᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&ec=GAZAmgQ&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=zh-CN&ifkv=AeZLP98LSd1QUoD4qLh1JzljDK5wtann5y991NWW9XzXFEE3R-4u9NxQoG-pVFjOgm-8afTRLAA52Q&dsh=S-1590402625%3A1734089615380411ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AeZLP9_f4k0Ln_WFzKH78taZ-ShrwLtQiLrSjnJpCNd8l17j2OHuPrXZzRclvAJgSajnBjZ3BeoHnQ&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S271548476%3A1734091755738686&ddm=1ᛡ1.5
+登录 - Google 账号ᛝhttps://accounts.google.com/v3/signin/rejected?continue=https%3A%2F%2Fwww.google.com%2F&ddm=1&dsh=S271548476%3A1734091755738686&ec=GAZAmgQ&epd=AW5di2pY-gApom59IQKNTkBnPNeW8ibBBPRVqEioXpsr2oVGqGnPKUNSSw&flowEntry=ServiceLogin&flowName=GlifWebSignIn&hl=zh-CN&idnf=dongyanchen1024&ifkv=AeZLP9_f4k0Ln_WFzKH78taZ-ShrwLtQiLrSjnJpCNd8l17j2OHuPrXZzRclvAJgSajnBjZ3BeoHnQ&rhlk=le&rrk=46ᛡ1.5
+Sign in - Google Accountsᛝhttps://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fwww.google.com%2F&ec=GAZAmgQ&hl=en&ifkv=AeZLP9-rUbggnShiB1n3Iv7p4nGt38orpY0h7egBlYIZdPYdUsCS8RHo0TC0G6SEEaV_O6ZR02zHEw&passive=true&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S1812012843%3A1734149991865040&ddm=1ᛡ1.5
+简书 - 写文章ᛝhttps://www.jianshu.com/writer#/notebooks/3484007ᛡ1.5
+lazycat-emacs/site-lisp/extensions/lazycat/cursor-chg.el at 47ed27a317c9d81b9ae4727a62c43bccc585b8b1 · manateelazycat/lazycat-emacsᛝhttps://github.com/manateelazycat/lazycat-emacs/blob/47ed27a317c9d81b9ae4727a62c43bccc585b8b1/site-lisp/extensions/lazycat/cursor-chg.el#L1ᛡ1.5
+Sign in to GitHub · GitHubᛝhttps://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Femacs-eaf%2Feaf-git%2Fwiki%2FTodolistᛡ1.5
+USACOᛝhttps://usaco.org/index.php?page=viewproblem&cpid=1433ᛡ1.5
+Just a moment...ᛝhttps://usaco-org.translate.goog/?_x_tr_sl=auto&_x_tr_tl=zh-CN&_x_tr_hl=zh-CN&_x_tr_pto=wappᛡ1.5
+跳转提示-稀土掘金ᛝhttps://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fwez%2Fweztermᛡ1.5
+Code Guide by @AlloyTeamᛝhttp://alloyteam.github.io/CodeGuide/#css-declaration-orderᛡ1.5
+腾讯云开发者社区-腾讯云ᛝhttps://cloud.tencent.com/developer/tools/blog-entry?target=https%3A%2F%2Ffishshell.com%2F&objectId=1709295&objectType=1&isNewArticle=undefinedᛡ1.5
+Code search resultsᛝhttps://github.com/search?q=repo%3Atreemacs&type=codeᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=counsel&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=amx+language%3A%22Emacs+Lisp%22+&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=which-key+language%3A%22Emacs+Lisp%22+&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=projectile+&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=counsel-projectile+&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=dashboard+emacs&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=+rainbow-delimiters&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=flycheck&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=lsp+mode&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=company+mode&type=repositoriesᛡ1.5
+Repository search resultsᛝhttps://github.com/search?q=lsp+ui&type=repositoriesᛡ1.5

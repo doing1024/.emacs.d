@@ -1,0 +1,5 @@
+* Default
+** Files
+ - path :: /run/media/doing/Files
+** .emacs.d
+ - path :: ~/.emacs.d
